@@ -1,4 +1,4 @@
-# MB2 Project Submission: Land Cover Change Assessment and NDVI Time Series Analysis, Brazil
+# MB2 Project Submission - Land Cover Change Assessment and NDVI Time Series Analysis, Brazil
 Including the scripts and file link for the MB2 Programming Project
 
 **Description** <br>
