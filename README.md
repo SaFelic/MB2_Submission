@@ -6,7 +6,7 @@ Including the scripts and file link for the MB2 Programming Project
 This repository contains two scripts, one for supervised classification of two Landsat 5 and Landsat 8 satellite scenes with subsequent Land Cover Change Assessment
 and a second script for further analysis of MODIS NDVI Raster Time Series (RTS) including statistical RTS analysis and breakpoint detection for a subset of the originial research area. <br>
 
-All necessary data can be downloaded with the followink link: 
+All necessary data can be downloaded with the followink link: https://drive.google.com/drive/folders/1FA5ahEAsq9PF3vRc6qqJMWXw0S4dy6D0?usp=sharing
 
 Please note that the pathway of the downloaded files has to be set as the working directory in R with the command `setwd()`.
 
